@@ -136,3 +136,5 @@ ConcreteObserverB: Reage ao evento se o estado do subject for igual a zero ou ma
 1- Desanexa ConcreteObserverA do subject.</br>
 ##### Execução Adicional da Lógica de Negócios:
 1- Chama novamente o método some_business_logic.</br>
+# Todas as informações, códigos e imagens contidas nesse trabalho foram retiradas do Refactoring Guru </br>
+https://refactoring.guru/pt-br
